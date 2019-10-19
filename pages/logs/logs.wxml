@@ -1,0 +1,23 @@
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">关于</view>
+        <view class="page__desc">2019.10.19</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+
+            <view class="weui-article__section">
+                
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p about">
+                        这是韩献阳的第一个小程序的Demo! 
+                    </view>
+                    
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+

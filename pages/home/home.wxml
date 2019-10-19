@@ -1,0 +1,57 @@
+<!--pages/home/home.wxml-->
+<view class="weui-cells__title">填写信息</view>
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell ">
+                <view class="weui-cell__hd">
+                    <view class="weui-label">姓名</view>
+                </view>
+                <view class="weui-cell__bd">
+                    <input class="weui-input" placeholder="请输入姓名"/>
+                </view>
+            </view>
+            <view class="weui-cell  ">
+                <view class="weui-cell__hd">
+                    <view class="weui-label">公司</view>
+                </view>
+                <view class="weui-cell__bd">
+                    <input class="weui-input" placeholder="请输入公司" />
+                </view>
+
+            </view>
+            <view class="weui-cell  ">
+                <view class="weui-cell__hd">
+                    <view class="weui-label">部门</view>
+                </view>
+                <view class="weui-cell__bd">
+                    <input class="weui-input" placeholder="请输入部门" />
+                </view>
+
+            </view>
+              <view class="weui-cell  ">
+                <view class="weui-cell__hd">
+                    <view class="weui-label">职位</view>
+                </view>
+                <view class="weui-cell__bd">
+                    <input class="weui-input" placeholder="请输入职位" />
+                </view>
+
+            </view>
+
+          <view class="weui-cell  ">
+            <view class="weui-cell__hd">
+                <view class="weui-label">手机</view>
+            </view>
+            <view class="weui-cell__bd">
+                <input class="weui-input" placeholder="请输入手机号" />
+            </view>
+          </view>
+        </view>
+        <view class="page">
+
+    <view class="page__bd page__bd_spacing creatcard">
+        <button class="weui-btn" type="primary">生成名片</button>
+
+
+
+    </view>
+</view>

@@ -1,0 +1,4 @@
+/* pages/home/home.wxss */
+.creatcard{
+  margin: 30px 10px;
+}

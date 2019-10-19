@@ -1,0 +1,60 @@
+<!--index.wxml-->
+<view class="container">
+<view class="cardcontainer">
+  
+  <view class="card">
+  <image src="/icon/demo2.jpg" class="card-bg"></image>
+
+    <view class="weui-panel weui-panel_access vcard" >
+           
+            <view class="weui-panel__bd">
+                <navigator url="" class="weui-media-box weui-media-box_appmsg">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="/icon/Schmoes 人物.png" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">韩献阳</view>
+                        <view class="weui-media-box__desc">
+                        <view>自动化开发组</view>
+                        <view>OPPLE</view>
+                        </view>
+                    </view>
+                </navigator>
+
+            </view>
+            
+        </view>
+    
+  </view>
+  </view>
+  <view class="weui-panel">
+            
+            <view class="weui-panel__bd">
+                <view class="weui-media-box weui-media-box_small-appmsg">
+                    <view class="weui-cells weui-cells_in-small-appmsg">
+                        <view  class="weui-cell weui-cell_example weui-cell_access" hover-class="weui-cell_active">
+                            <view class="weui-cell__hd"><image src="/icon/电话.png" style="width: 20px;height: 20px;margin-right: 16px;vertical-align:middle;" /></view>
+                            <view class="weui-cell__bd weui-cell_primary">
+                                <view>18888888999</view>
+                            </view>
+                            <!-- <view class="weui-cell__ft weui-cell__ft_in-access"></view> -->
+                        </view>
+                        <view   class="weui-cell weui-cell_example weui-cell_access" hover-class="weui-cell_active">
+                            <view class="weui-cell__hd"><image src="/icon/邮箱.png" style="width: 20px;height: 20px;margin-right: 16px;vertical-align:middle;" /></view>
+                            <view class="weui-cell__bd weui-cell_primary">
+                                <view>mj0001@ccc.com</view>
+                            </view>
+                            <!-- <view class="weui-cell__ft weui-cell__ft_in-access"></view> -->
+                        </view>
+                        <view class="weui-cell weui-cell_example weui-cell_access" hover-class="weui-cell_active">
+                            <view class="weui-cell__hd"><image src="/icon/定位.png" style="width: 20px;height: 20px;margin-right: 16px;vertical-align:middle;" /></view>
+                            <view class="weui-cell__bd weui-cell_primary">
+                                <view>中国苏州市吴江区</view>
+                            </view>
+                            <!-- <view class="weui-cell__ft weui-cell__ft_in-access"></view> -->
+                        </view>
+                    </view>
+                </view>
+            </view>
+        </view>
+</view>
